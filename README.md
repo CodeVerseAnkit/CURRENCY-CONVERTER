@@ -55,7 +55,7 @@ Add a screenshot of the program running in the terminal here.
 
 Example:
 
-![Currency Converter Screenshot](screenshot.png)
+![Currency Converter Screenshot] https://github.com/CodeVerseAnkit/CURRENCY-CONVERTER/blob/main/Example.jpg
 
 
 ---
